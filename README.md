@@ -2,9 +2,12 @@
 #### I am a gameplay programmer that has a general skillset in both C# and C++. I have worked on projects in both Unity and Unreal. Feel free to look at some of the things I've worked on!
 
 #### This is my most recently worked on project made with Unreal Engine 5.
-![LAB_ItchBanner](https://github.com/user-attachments/assets/26881d42-65c4-4cbe-8d21-6c9ac9464732)
-[https://lifesabeachaie.itch.io/lifes-a-beach]
+![LAB_ItchBanner](https://github.com/user-attachments/assets/910b055e-fdea-4c76-9026-977957edbcce)
+[https://lifesabeachaie.itch.io/lifes-a-beach "Life's a Beach Homepage"]
 
+#### As well as another project I worked on previously.
+![TrickyTreatsLogo](https://github.com/user-attachments/assets/40eb0de4-81fb-4246-ab7c-90b0efa7b0c5)
+[https://trickytreats.itch.io/tricky-treats "Tricky Treats Homepage"]
 <!--
 **parisrainey/parisrainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
