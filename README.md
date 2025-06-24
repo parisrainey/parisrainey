@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my Git!
+#### I am a gameplay programmer that has a general skillset in both C# and C++. I have worked on projects in both Unity and Unreal. Feel free to look at some of the things I've worked on!
+
+#### This is my most recently worked on project made with Unreal Engine 5.
+https://lifesabeachaie.itch.io/lifes-a-beach
 
 <!--
 **parisrainey/parisrainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
