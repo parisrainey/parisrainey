@@ -3,7 +3,7 @@
 
 #### This is my most recently worked on project made with Unreal Engine 5.
 
-(https://lifesabeachaie.itch.io/lifes-a-beach "Life's a Beach Homepage")
+[I'm an inline-style link with title](https://lifesabeachaie.itch.io/lifes-a-beach "Life's a Beach Homepage")
 
 <!--
 **parisrainey/parisrainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
