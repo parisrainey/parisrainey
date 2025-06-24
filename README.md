@@ -3,11 +3,11 @@
 
 #### This is my most recently worked on project made with Unreal Engine 5.
 ![LAB_ItchBanner](https://github.com/user-attachments/assets/910b055e-fdea-4c76-9026-977957edbcce)
-[https://lifesabeachaie.itch.io/lifes-a-beach "Life's a Beach Homepage"]
+[Life's a Beach Homepage](https://lifesabeachaie.itch.io/lifes-a-beach)
 
 #### As well as another project I worked on previously.
 ![TrickyTreatsLogo](https://github.com/user-attachments/assets/40eb0de4-81fb-4246-ab7c-90b0efa7b0c5)
-[https://trickytreats.itch.io/tricky-treats "Tricky Treats Homepage"]
+[Tricky Treats Homepage](https://trickytreats.itch.io/tricky-treats)
 <!--
 **parisrainey/parisrainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
